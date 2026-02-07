@@ -1,4 +1,5 @@
-python-telegram-bot==20.7
+python-telegram-bot
 yt-dlp
 ffmpeg-python
 python-dotenv
+
